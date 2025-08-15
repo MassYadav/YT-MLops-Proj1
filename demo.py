@@ -1,4 +1,4 @@
-from src.logger import logging
+'''from src.logger import logging
 from src.exception import MyException  # ✅ Now this will work
 import sys
 
@@ -20,4 +20,4 @@ except Exception as e:
 from src.pipeline.training_pipeline import TrainPipeline
 
 pipeline = TrainPipeline()
-pipeline.run_pipeline()
+pipeline.run_pipeline()'''
